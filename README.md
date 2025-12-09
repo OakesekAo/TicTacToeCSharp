@@ -59,7 +59,7 @@ dotnet --version
 1. Clone or download this repository:
 
 ```
-git clone https://github.com/OakesekAo/tic-tac-toe-console.git
+git clone https://github.com/OakesekAo/TicTacToeCSharp.git
 cd tic-tac-toe-console
 ```
 
