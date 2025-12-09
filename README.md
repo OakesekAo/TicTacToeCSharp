@@ -44,12 +44,13 @@ dotnet --version
 4. In the integrated terminal at the bottom, run:
 
    ```
-   dotnet run```
+   dotnet run
+   ```
 
-or, if present:
-```
-./run.sh
-```
+   or, if present:
+   ```
+   ./run.sh
+   ```
 
 
 ## Option B: Run locally
