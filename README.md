@@ -9,6 +9,7 @@ rather than golfing for the fewest lines of code.
 - Clean separation between game orchestration, board state, and AI.
 - Unbeatable computer using a minimax search.
 - Input validation and friendly console UX.
+- Difficulty selector Random choice difficulty option that make it possible to win.
 - Runs on macOS, Linux, and Windows via the .NET SDK.
 
 ---
